@@ -63,8 +63,8 @@ function App() {
           </div>
           <div id="aboutMe" className="aboutMe">
             <h2>About Me</h2>
-            <p>I was born and raised in California so nothing feels better to me than the ocean breeze at the beach on a warm day. That holds true whether I'm neck deep in the water or opening my laptop on a comfy beach chair. But no matter how much I might like these familiar things, I'm always willing to go somewhere new and learn to appreciate the value of things I've never experienced. Learning to code was a bit like that for me - at first, something strange and new but I developed a great enjoyment for it. There really is nothing like the feeling of writing the last line in a big project.</p>
-          </div>
+            <p>I was born and raised in California, so nothing feels better to me than the ocean breeze at the beach on a warm day. That holds true whether I'm neck-deep in the water or opening my laptop on a comfy beach chair. But no matter how much I might like these familiar things, I'm always willing to go somewhere new and learn to appreciate the value of things I've never experienced. Learning to code was a bit like that for me—at first, it felt strange and new, but I developed a great enjoyment for it. There really is nothing like the feeling of writing the last line in a big project.</p>
+            </div>
           <div id="skills" className="skills">
             <h2 className="mySkills">My Skills:</h2>
             <div className="skills_grid">
