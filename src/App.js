@@ -19,7 +19,7 @@ import ProjectCard from './ProjectCard';
 import Melee from './Melee.png';
 import Tetris from './images/CompleteTetrisBoard.jpg';
 import Doc from './images/Document.png'
-import Resume from './Resume-Ali Naqvi.pdf'
+import Resume from './Resume - Ali Naqvi.pdf'
 
 function App() {
   return (
